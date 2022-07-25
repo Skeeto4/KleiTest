@@ -1,0 +1,9 @@
+Damage, Speed, Type,
+2.7, 2.00, Axe
+2.6, 2.00, Axe
+2.3, 2.00, Axe
+1.2, 0.50, Knife
+1.0, 0.50, Knife
+1.5, 0.70, Sword
+1.5, 0.75, Sword
+1.5, 0.80, Sword
